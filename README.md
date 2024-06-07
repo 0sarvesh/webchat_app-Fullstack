@@ -1,9 +1,4 @@
 
-# Dev Chat App
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-=======
-## WebChat App
 
 * **Frontend: React**
   * **React**: Used for building the user interface. Components are structured to provide a seamless chat experience.
